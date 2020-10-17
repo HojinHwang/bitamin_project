@@ -1,0 +1,13 @@
+Text To Hip
+=============
+
+[비타민](https://cafe.naver.com/bitamin123) 3기 인원들과 '인공지능을 활용한 힙합 작사'프로젝트를 진행했습니다.   
+   
+## 프로젝트 영상   
+https://cafe.naver.com/bitamin123/1586   
+   
+## 프로젝트 개요
+![프로젝트 개요](https://user-images.githubusercontent.com/41909501/96329702-88b49780-108a-11eb-959b-4f4e649b50f7.jpg)   
+   
+## 프로젝트 결과
+![프로젝트 결과](https://user-images.githubusercontent.com/41909501/96329724-abdf4700-108a-11eb-896a-fd272c2bf1de.jpg)
