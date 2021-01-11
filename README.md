@@ -12,6 +12,9 @@ https://cafe.naver.com/bitamin123/1586
 ## 프로젝트 결과
 ![프로젝트 결과](https://user-images.githubusercontent.com/41909501/96329724-abdf4700-108a-11eb-896a-fd272c2bf1de.jpg)
 
+## 프로젝트 참여 인원
+고지형 김상희 배진수 황호진
+
 ## 설치 방법
 ```
 pip install -r requirements.txt
