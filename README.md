@@ -17,9 +17,9 @@ https://cafe.naver.com/bitamin123/1586
      
 
 ## 모델 학습 방법
-<mark style='backgroud-color: #24292e'>git clone https://github.com/bogus215/TextToHip.git
+<mark style='backgroud-color: #24292e'> git clone https://github.com/bogus215/TextToHip.git </mark>
 
-cd ./TextToHip/Transformer
+<mark style='backgroud-color: #24292e'> cd ./TextToHip/Transformer </mark>
 
-python run.py
-</mark>
+<mark style='backgroud-color: #24292e'> python run.py </mark>
+
