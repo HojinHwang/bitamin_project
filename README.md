@@ -13,13 +13,13 @@ https://cafe.naver.com/bitamin123/1586
 ![프로젝트 결과](https://user-images.githubusercontent.com/41909501/96329724-abdf4700-108a-11eb-896a-fd272c2bf1de.jpg)
 
 ## 설치 방법
-<div class=".bg-gray>
-pip install -r requirements.txt
-<div>            
+<mark style='backgroud-color: #24292e'> pip install -r requirements.txt </mark>
+     
 
 ## 모델 학습 방법
-git clone https://github.com/bogus215/TextToHip.git
+<mark style='backgroud-color: #24292e'>git clone https://github.com/bogus215/TextToHip.git
 
 cd ./TextToHip/Transformer
 
 python run.py
+</mark>
